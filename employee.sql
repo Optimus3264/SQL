@@ -67,9 +67,3 @@ where first_name like 'J%';
 select * from employees_info where salary between 55000 and 60000;
 
 
-case statement
-offset
-data  function
-string functions
-
-in having only show columns
