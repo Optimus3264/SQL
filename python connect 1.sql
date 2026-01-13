@@ -8,9 +8,4 @@ drop table users;
 
 select * from users;
 
-cursor.execute("INSERT INTO users(name , email) " values(%s,%s),
-( "John Doe ", "johndoe@example.com")),
-
-commit the changes conn.commit(),
-print("user inserted successfull!");
-
+INSERT INTO users values (1,'john doe', 'johndoe@example.com');
