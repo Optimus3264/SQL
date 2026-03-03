@@ -82,4 +82,4 @@ from bakery_products group by category_name order by count(product_id) desc;
 -- mysql HAVING clause
 select count(product_id) price from bakery_products group by price having count(product_id >2 );
 
--- mysql EXISTS operator
+-- mysql EXISTS operator.
