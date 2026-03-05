@@ -1,4 +1,4 @@
--- create database superstore
+-- create database superstore.
 create database superstore;
 use superstore;
 
