@@ -1,4 +1,4 @@
--- create database customer info
+-- create database customer info.
 CREATE DATABASE customer_info;
 use customer_info;
 -- create table customer_details
