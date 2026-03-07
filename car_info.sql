@@ -1,4 +1,4 @@
--- create database cars
+-- create database cars.
 
 create database cars;
 use cars;
