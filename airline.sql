@@ -23,7 +23,7 @@ insert into airline_info values (9,'donald','air india','2025-02-02','5500','cas
 insert into airline_info values (10,'elizabeth','vistera','2025-03-12','6400','cash');
 
 
--- count the payment mode
+-- count the payment mode.
 select count(payment_mode) from airline_info where payment_mode='online';
 select count(payment_mode) from airline_info where payment_mode='cash';
 
