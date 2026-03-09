@@ -1,4 +1,4 @@
--- create database employee_details
+-- create database employee_details.
 create database employee_details;
 use employee_details;
 
