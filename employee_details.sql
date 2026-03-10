@@ -23,7 +23,7 @@ insert into employee_info values(8, 'omkar salokhe','M', 'software engineer', '3
 insert into employee_info values(9, 'ankita mandal','F', 'IT management', '40000');
 insert into employee_info values(10, 'nazim maner','M', 'technical support', '30000');
 
--- retrive price greater than 30000
+-- retrive price greater than 30000.
 select * from employee_info where salary >30000;
 
 -- retrive price less than 35000
