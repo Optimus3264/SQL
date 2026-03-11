@@ -3,7 +3,7 @@ use medical;
 
 select * from medical;
 
--- order by
+-- order by.
 select * from medical order by blood_sugar asc;
 select * from medical order by age desc;
 
