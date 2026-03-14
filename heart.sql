@@ -3,7 +3,7 @@ use heart_disease;
 
 select * from heart;
 
--- count,avd and sum
+-- count,avd and sum.
 select count(sex) from heart where sex=1;
 select avg(age) from heart;
 select sum(age) from heart;
