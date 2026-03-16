@@ -1,4 +1,4 @@
--- create table students
+-- create table students.
 use students;
 create table students(
 id int ,
