@@ -20,7 +20,7 @@ select count(age) from heart where age between 50 and 55;
 select * from heart where chol > 250;
 select * from heart where age < 50;
 
--- in clause
+-- in clause.
 select * from heart where ca in (2,4);
 select * from heart where ca not in (1,0) ;
 
