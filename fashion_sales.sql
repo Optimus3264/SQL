@@ -3,7 +3,7 @@ use fashion;
 
 select * from fashion_sales;
 
--- order by
+-- order by.
 select * from fashion_sales order by item_purchased desc;
 select * from fashion_sales order by customer_reference_id asc;
 
