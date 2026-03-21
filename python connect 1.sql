@@ -1,4 +1,4 @@
--- create database python_connect 1
+-- create database python_connect 1.
 create database python_connect1;
 use python_connect1;
 
