@@ -7,7 +7,7 @@ select * from fashion_sales;
 select * from fashion_sales order by item_purchased desc;
 select * from fashion_sales order by customer_reference_id asc;
 
--- greater then , less than
+-- greater then , less than.
 select * from fashion_sales where review_rating > 4.1;
 select * from fashion_sales where review_rating < 2;
 
