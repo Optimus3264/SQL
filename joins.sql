@@ -30,7 +30,7 @@ insert into course values(104,'python','learn python basic');
 select * from course;
 
 
--- where and order by 
+-- where and order by
 
 select name, date_of_birth from students where date_of_birth > '2000/07/24' order by date_of_birth asc;
 
