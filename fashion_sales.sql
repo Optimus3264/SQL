@@ -11,7 +11,7 @@ select * from fashion_sales order by customer_reference_id asc;
 select * from fashion_sales where review_rating > 4.1;
 select * from fashion_sales where review_rating < 2;
 
--- between
+-- between.
 select * from fashion_sales where review_rating between 2 and 2.5;
 
 -- min and max
