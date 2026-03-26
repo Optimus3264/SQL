@@ -1,3 +1,4 @@
+--
 DROP TABLE IF EXISTS stg_hmda__loans CASCADE;
 
 CREATE TABLE stg_hmda__loans AS
