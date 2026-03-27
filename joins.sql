@@ -8,7 +8,7 @@ date_of_birth varchar(50)
 );
 drop table students;
 
--- create table course
+-- create table course.
 create table course(
 course_id int,
 course_name varchar(50),
