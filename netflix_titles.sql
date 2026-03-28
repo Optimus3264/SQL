@@ -5,7 +5,7 @@ select * from netflix_titles;
 
 drop table netflix_titles;
 
--- between clause
+-- between clause.
 select * from netflix_titles where release_year between 2001 and 2005;
 
 -- greater than and less than
