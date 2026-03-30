@@ -4,7 +4,7 @@ use online_shopping;
 select * from online_shoppers_intention;
 
 
--- give all the records associated with Feb month?
+-- give all the records associated with Feb month?.
 select * from online_shoppers_intention where month='Feb';
 
 -- how many entries in dataset where visitor type is new visitor?
