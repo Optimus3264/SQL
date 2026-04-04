@@ -1,3 +1,4 @@
+--
 create database mobiles;
 use mobiles;
 
