@@ -1,4 +1,4 @@
--- create database game_store.
+-- create database game_store
 create database game_store;
 use game_store;
 
