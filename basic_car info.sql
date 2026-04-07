@@ -1,3 +1,4 @@
+--
 CREATE DATABASE car_info;
 USE car_info;
 CREATE TABLE car_details(
