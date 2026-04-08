@@ -1,4 +1,4 @@
--- create database school.
+-- create database school
 create database school;
 use school;
 
