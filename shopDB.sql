@@ -1,4 +1,4 @@
--- Step 1: Create a Database
+-- Step 1: Create a Database.
 CREATE DATABASE ShopDB;
 USE ShopDB;
 
