@@ -7,7 +7,7 @@ select * from medical;
 select * from medical order by blood_sugar asc;
 select * from medical order by age desc;
 
--- greater then and less than 
+-- greater then and less than
 select * from medical where heart_rate > 75;
 select count(heart_rate) from medical where heart_rate>75;
 
