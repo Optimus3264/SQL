@@ -8,7 +8,7 @@ select count(sex) from heart where sex=1;
 select avg(age) from heart;
 select sum(age) from heart;
 
--- min and max
+-- min and max.
 select max(age) as largest_number from heart;
 select min(chol) as smallest_number from heart;
 
