@@ -4,7 +4,7 @@ use mobiles;
 
 select * from mobiles;
 
--- greater than and less than
+-- greater than and less than.
 select * from mobiles where battery_capacity > 5000;
 select * from mobiles where ram < '8gb';
 
