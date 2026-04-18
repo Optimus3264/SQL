@@ -1,4 +1,4 @@
--- application date between time frame
+-- application date between time frame.
 
 select loan_status, borrower_id
 from loan_applications
