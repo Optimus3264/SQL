@@ -2,7 +2,7 @@
 CREATE DATABASE ShopDB;
 USE ShopDB;
 
--- Step 2: Create Customers Table
+-- Step 2: Create Customers Table.
 CREATE TABLE Customers (
     customer_id INT PRIMARY KEY,
     name VARCHAR(50),
