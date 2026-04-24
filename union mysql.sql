@@ -1,4 +1,4 @@
--- Step 1: Create a new database
+-- Step 1: Create a new database.
 CREATE DATABASE example_db;
 
 -- Step 2: Use the newly created database
