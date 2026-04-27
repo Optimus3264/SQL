@@ -8,7 +8,7 @@ drop table netflix_titles;
 -- between clause.
 select * from netflix_titles where release_year between 2001 and 2005;
 
--- greater than and less than
+-- greater than and less than.
 select count(duration) from netflix_titles where duration >' 1 season';
 select * from netflix_titles where duration > '1 season';
 
