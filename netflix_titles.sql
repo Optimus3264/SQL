@@ -15,7 +15,7 @@ select * from netflix_titles where duration > '1 season';
 select * from netflix_titles where duration <100;
 select count(duration) from netflix_titles where duration < 100;
 
--- ascending and descending order
+-- ascending and descending order.
 select * from netflix_titles order by title asc;
 select * from netflix_titles order by listed_in desc;
 
