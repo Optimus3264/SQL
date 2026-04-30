@@ -8,7 +8,7 @@ select * from mobiles;
 select * from mobiles where battery_capacity > 5000;
 select * from mobiles where ram < '8gb';
 
--- order by
+-- order by.
 select * from mobiles order by launched_year asc;
 select * from mobiles order by mobile_weight desc;
 
