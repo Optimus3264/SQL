@@ -1,6 +1,6 @@
 create database mysqlsubquery2;
 use mysqlsubquery2;
-
+--
 CREATE TABLE customers (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
