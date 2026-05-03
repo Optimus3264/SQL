@@ -32,7 +32,7 @@ INSERT INTO orders (customer_id, order_date, amount) VALUES
 select * from customers;
 select * from orders;
 
--- cutomers with total order is $ 400
+-- cutomers with total order is $ 400.
  select name from customers where id in (select customer_id from orders group by customer_id having sum(amount)>400);
 
 -- customer who do not give any order
