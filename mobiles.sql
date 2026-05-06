@@ -12,7 +12,7 @@ select * from mobiles where ram < '8gb';
 select * from mobiles order by launched_year asc;
 select * from mobiles order by mobile_weight desc;
 
--- between
+-- between.
 select * from mobiles where RAM between 6 and 12;
  
 -- min and max
