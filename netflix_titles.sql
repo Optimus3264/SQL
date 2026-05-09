@@ -19,7 +19,7 @@ select count(duration) from netflix_titles where duration < 100;
 select * from netflix_titles order by title asc;
 select * from netflix_titles order by listed_in desc;
 
--- and ,or , not operators
+-- and ,or , not operators.
 select * from netflix_titles where listed_in='documentaries';
 select * from netflix_titles where release_year='2021' and duration='1 season';
 select * from netflix_titles where country='united states' or duration='2 season';
