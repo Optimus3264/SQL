@@ -24,7 +24,7 @@ select * from netflix_titles where listed_in='documentaries';
 select * from netflix_titles where release_year='2021' and duration='1 season';
 select * from netflix_titles where country='united states' or duration='2 season';
 
--- group by
+-- group by.
 select count(show_id),type from netflix_titles group by type;
 
 -- limit clause
