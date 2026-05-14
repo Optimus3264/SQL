@@ -1,4 +1,4 @@
--- create database petrop_pump
+-- create database petrop_pump.
 CREATE DATABASE petrol_pump;
 use petrol_pump;
 
