@@ -1,4 +1,4 @@
-select
+select --
  case
   when credit_score < 600 then 'Poor'
   when credit_score >=600 and credit_score <650 then 'Fair'
