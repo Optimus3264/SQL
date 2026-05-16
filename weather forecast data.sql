@@ -3,7 +3,7 @@ use weather_forecast;
 
 select * from weather_forecast_data;
 
--- temperature is greater than 25
+-- temperature is greater than 25.
 
 select count(temperature) from weather_forecast_data where temperature > 25;
 
