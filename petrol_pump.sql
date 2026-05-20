@@ -2,7 +2,7 @@
 CREATE DATABASE petrol_pump;
 use petrol_pump;
 
--- create table petrol_pump
+-- create table petrol_pump.
 create table petrol_pump(
 id int,
 fuel_name varchar (255),
