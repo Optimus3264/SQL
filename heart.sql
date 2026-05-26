@@ -24,7 +24,7 @@ select * from heart where age < 50;
 select * from heart where ca in (2,4);
 select * from heart where ca not in (1,0) ;
 
--- and ,or and not
+-- and ,or and not.
 select * from heart where sex=1 and cp=2;
 select * from heart where sex=0 or cp=1;
 select * from heart where not sex=1 and cp=0;
