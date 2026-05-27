@@ -29,7 +29,7 @@ select * from heart where sex=1 and cp=2;
 select * from heart where sex=0 or cp=1;
 select * from heart where not sex=1 and cp=0;
 
--- group by
+-- group by.
 select count(age),sex from heart group by sex;
 
 -- ascending and descending order 
