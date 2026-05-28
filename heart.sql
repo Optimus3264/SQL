@@ -12,7 +12,7 @@ select sum(age) from heart;
 select max(age) as largest_number from heart;
 select min(chol) as smallest_number from heart;
 
--- between
+-- between.
 select * from heart where age between 50 and 55;
 select count(age) from heart where age between 50 and 55;
 
