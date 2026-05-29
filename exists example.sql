@@ -20,7 +20,7 @@ insert into products values (3,'aniseed syrup', '1', '2','24' ,'10');
 insert into products values (4,'chef antons cajun seasoning', '2', '2','48' ,'22');
 insert into products values (5,'chef antons gumbo mix', '2', '2','36' ,'21');
 
--- create table suppliers 
+-- create table suppliers.
 create table suppliers(
 supplier_id int,
 supplier_name varchar(255),
