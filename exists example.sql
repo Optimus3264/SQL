@@ -1,4 +1,4 @@
--- create database exists_example
+-- create database exists_example.
  create database exist_example;
  use exist_example;
  
