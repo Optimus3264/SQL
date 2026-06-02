@@ -1,4 +1,4 @@
--- create database keys_example
+-- create database keys_example.
 create database keys_example;
 use keys_example;
 
