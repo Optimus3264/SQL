@@ -1,3 +1,4 @@
+--
 create table loan_applications(
 loan_id serial primary key,
 borrower_id int,
