@@ -19,7 +19,7 @@ select * from mobiles where RAM between 6 and 12;
 select min(back_camera) as smallestnumber from mobiles;
 select max(launched_year) as largestnumber from mobiles;
 
--- avg ,sum and count
+-- avg ,sum and count.
 select avg(mobile_weight) from mobiles;
 select sum(mobile_weight) from mobiles;
 select count(mobile_weight) from mobiles;
