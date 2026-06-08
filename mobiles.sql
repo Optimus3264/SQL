@@ -15,7 +15,7 @@ select * from mobiles order by mobile_weight desc;
 -- between.
 select * from mobiles where RAM between 6 and 12;
  
--- min and max
+-- min and max.
 select min(back_camera) as smallestnumber from mobiles;
 select max(launched_year) as largestnumber from mobiles;
 
