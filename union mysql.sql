@@ -1,7 +1,7 @@
 -- Step 1: Create a new database.
 CREATE DATABASE example_db;
 
--- Step 2: Use the newly created database
+-- Step 2: Use the newly created database.
 USE example_db;
 
 -- Step 3: Create first table (employees)
