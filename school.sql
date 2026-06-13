@@ -2,7 +2,7 @@
 create database school;
 use school;
 
--- create table school_info
+-- create table school_info.
 create table school_info(
 id int,
 name varchar(255),
