@@ -24,7 +24,7 @@ insert into petrol_pump values (8, 'Petrol', '2Wheeler','200','4000');
 insert into petrol_pump values (9, 'Petrol', '4Wheeler','700','9000');
 insert into petrol_pump values (10, 'Disel', '4Wheeler','800','8000');
 
--- retrive price greater than 500
+-- retrive price greater than 500.
 select * from petrol_pump where price >500;
 
 -- retrive price less than 400
