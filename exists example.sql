@@ -38,7 +38,7 @@ insert into suppliers values (2,'ripcord pharma', 'prakash patil', 'kagal','kolh
 insert into suppliers values (3,'shree liquids', 'rajiv bhosale', 'kodoli','kolhapur' ,'416114','india');
 insert into suppliers values (4,'tejas foods', 'suresh khot', 'wakad','pune' ,'416115','india');
 
--- mysql EXISTS examples
+-- mysql EXISTS examples.
 -- The following SQL statement returns TRUE and lists the suppliers with a product price less than 20:
 
 select supplier_name
