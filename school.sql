@@ -22,7 +22,7 @@ insert into school_info values(4,'shahu school','mumbai','2020','0235695478','30
 
 drop table school_info;
 
--- retrive fee greater than 3000
+-- retrive fee greater than 3000.
 select * from school_info where fee>3000;
 
 -- retrive fee less than 5000
