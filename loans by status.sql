@@ -1,4 +1,4 @@
--- loans by status
+-- loans by status.
 
 select loan_status, count(*) as total_loans
 from loans
