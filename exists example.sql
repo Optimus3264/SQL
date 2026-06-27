@@ -2,7 +2,7 @@
  create database exist_example;
  use exist_example;
  
- -- create table Products_table
+ -- create table Products_table.
  create table Products(
  product_id int,
  product_name varchar(255),
