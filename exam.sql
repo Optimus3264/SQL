@@ -1,4 +1,4 @@
--- Q2.3
+-- Q2.3.
 create database students;
 use students;
 
