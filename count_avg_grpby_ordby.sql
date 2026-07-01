@@ -8,4 +8,4 @@ ORDER BY avg_balance DESC;
 
 
 --“This query aggregates loans by status to compare both volume and average exposure,
---allowing us to identify which loan statuses pose the highest financial risk.”
+--allowing us to identify which loan statuses pose the highest financial risk.”.
