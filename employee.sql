@@ -1,4 +1,4 @@
--- create database employees
+-- create database employees.
 create database employees;
 use employees;
 
