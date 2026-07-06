@@ -1,4 +1,4 @@
---Create loans table
+--Create loans table.
 CREATE TABLE loans (
     loan_id VARCHAR(10),
     borrower_id VARCHAR(10),
