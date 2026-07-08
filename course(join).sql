@@ -21,7 +21,7 @@ insert into courses values (103,'advanced sql',3);
 select * from student_info;
 select * from courses;
 drop table courses;
--- inner joins 
+-- inner joins.
 select student_info.name ,courses.course_name
 from student_info
 inner join courses on student_info.student_id=courses.student_id;
