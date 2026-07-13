@@ -2,7 +2,7 @@
 create database employees;
 use employees;
 
--- create table employees_info
+-- create table employees_info.
 create table employees_info(
 emp_id int,
 first_name varchar(255),
