@@ -16,7 +16,7 @@ insert into students values ('gaurav',40,90);
 
 
 
--- Q4
+-- Q4.
 create database student;
 use student;
 
