@@ -44,7 +44,7 @@ drop table student;
  add age varchar(50);
  
  
- -- Q5
+ -- Q5.
 create database employee;
 use employee;
 
