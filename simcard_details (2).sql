@@ -1,7 +1,7 @@
 -- create database simcard_details.
 create database simcard_details;
 use simcard_details;
--- create table simcard_info
+-- create table simcard_info.
 create table simcard_info(
 id int,
 provider varchar(255),
