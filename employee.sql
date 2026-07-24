@@ -18,7 +18,7 @@ insert into employees_info values(1,'John', 'Doe','HR', '50000', '2018-01-15');
 insert into employees_info values(2,'Jane', 'Smith','IT', '60000', '2019-03-22');
 insert into employees_info values(3,'Alice', 'Brown','IT', '55000', '2020-11-02');
 
--- shoe only first and last name of employees
+-- shoe only first and last name of employees.
 select first_name ,last_name from employees_info;
 
 -- get all employees who work in "IT" department
