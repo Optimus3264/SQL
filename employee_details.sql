@@ -26,7 +26,7 @@ insert into employee_info values(10, 'nazim maner','M', 'technical support', '30
 -- retrive price greater than 30000.
 select * from employee_info where salary >30000;
 
--- retrive price less than 35000
+-- retrive price less than 35000.
 select * from  employee_info where salary< 35000;
 
 -- price between 25000 to 35000
