@@ -21,7 +21,7 @@ insert into employees_info values(3,'Alice', 'Brown','IT', '55000', '2020-11-02'
 -- shoe only first and last name of employees.
 select first_name ,last_name from employees_info;
 
--- get all employees who work in "IT" department
+-- get all employees who work in "IT" department.
 select * from employees_info where department='IT';
 
 -- find employees with a salary greater than 55000
