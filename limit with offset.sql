@@ -1,4 +1,4 @@
--- order by loan amount skipping first 12 rows
+-- order by loan amount skipping first 12 rows.
 
 select * from loan_applications
 order by loan_amount
