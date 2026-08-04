@@ -1,4 +1,4 @@
--- create table students.
+-- create table students..
 create table student_info(
 student_id int,
 name varchar(50)
