@@ -1,4 +1,4 @@
---
+--.
 CREATE TABLE mortgage_hmda (
     activity_year TEXT,
     lei TEXT,
