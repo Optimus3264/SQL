@@ -1,4 +1,4 @@
-create database Airport; --
+create database Airport; --.
 use Airport;
 create table Airline_info(
 Id int,
