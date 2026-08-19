@@ -14,7 +14,7 @@ select * from fashion_sales where review_rating < 2;
 -- between.
 select * from fashion_sales where review_rating between 2 and 2.5;
 
--- min and max
+-- min and max.
 select min(review_rating) as smallestnumber from fashion_sales;
 select max(review_rating) as largestnumber from fashion_sales;
 
