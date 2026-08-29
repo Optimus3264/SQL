@@ -1,3 +1,4 @@
+--
 DROP TABLE IF EXISTS int_hmda__loans_enhanced CASCADE;
 
 CREATE TABLE int_hmda__loans_enhanced AS
