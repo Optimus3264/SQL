@@ -1,4 +1,4 @@
-create database medical;
+create database medical; --
 use medical;
 
 select * from medical;
