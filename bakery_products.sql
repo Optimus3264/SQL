@@ -1,4 +1,4 @@
--- create database Bakery
+-- create database Bakery.
 create database Bakery;
 use bakery;
 
