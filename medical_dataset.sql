@@ -14,7 +14,7 @@ select count(heart_rate) from medical where heart_rate>75;
 select * from medical where age < 50;
 select count(age) from medical where age <50;
 
--- between 
+-- between.
 select * from medical where heart_rate between 70 and 80;
 
 -- min max 
