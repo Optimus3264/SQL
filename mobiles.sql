@@ -24,7 +24,7 @@ select avg(mobile_weight) from mobiles;
 select sum(mobile_weight) from mobiles;
 select count(mobile_weight) from mobiles;
 
--- in
+-- in.
 select * from mobiles where company_name in ('Apple', 'samsung');
 select * from mobiles where company_name not in ('apple','samsung','vivo');
 
