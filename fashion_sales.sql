@@ -1,3 +1,4 @@
+--
 create database fashion;
 use fashion;
 
