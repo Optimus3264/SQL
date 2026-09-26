@@ -1,3 +1,4 @@
+--
 CREATE DATABASE simcard_details;
 USE simcard_details;
 
