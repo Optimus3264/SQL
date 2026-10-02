@@ -1,4 +1,4 @@
---
+--.
 
 DROP TABLE IF EXISTS fct_loan_applications CASCADE;
 
