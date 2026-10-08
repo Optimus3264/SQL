@@ -2,7 +2,7 @@
 create database Bakery;
 use bakery;
 
--- create table bakery_products
+-- create table bakery_products.
 create table bakery_products(
 product_id int,
 product_name varchar(255),
