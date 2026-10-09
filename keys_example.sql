@@ -10,7 +10,7 @@ Email Varchar(100) Unique,
 Phome Varchar(15)
 );
 
--- creating departments table
+-- creating departments table.
 create table Departments(
 department_id int Primary Key auto_increment,
 department_name varchar(100) not null
