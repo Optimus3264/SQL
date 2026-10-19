@@ -1,3 +1,4 @@
+--
 create database mysqlsubquery2;
 use mysqlsubquery2;
 ---
