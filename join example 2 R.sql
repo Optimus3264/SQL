@@ -1,7 +1,7 @@
 -- create database customer info..
 CREATE DATABASE customer_info;
 use customer_info;
--- create table customer_details
+-- create table customer_details.
 create table customer_details(
 customer_id int,
 customer_name varchar (255),
